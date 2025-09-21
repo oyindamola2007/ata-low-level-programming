@@ -1,0 +1,3 @@
+#include <stdio.h> : the compiler searches for the header file only in the standard system direction
+
+#incluide "stdio.h" : the compiler first searches in the current working directory for a file name stdio.h, if not found it then looks in the system include directories
