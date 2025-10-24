@@ -1,0 +1,3 @@
+A linker is a program that takes compiled object files and libraries, 
+then combines them into a single executable by resolving symbol references
+A loader is part of the operating system that loads the executable into memory.

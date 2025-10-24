@@ -1,0 +1,5 @@
+linux kernel
+automotive software
+My sql
+git
+embedded systems

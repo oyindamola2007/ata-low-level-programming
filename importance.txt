@@ -1,0 +1,5 @@
+C is a compiled language and produces fast, optimized machine code.
+
+It is excellent for applications where performance and low latency matter 
+
+C programs can be compiled on almost any platform with little modification.

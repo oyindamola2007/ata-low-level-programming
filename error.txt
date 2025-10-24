@@ -1,0 +1,1 @@
+when i removed a semicolon after printf i got the error : expected ';' before 'return'
